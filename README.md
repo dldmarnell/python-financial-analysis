@@ -1,2 +1,3 @@
 # python-homework
-NU Fintech Bootcamp - Week 2 Homework
+NU Fintech Bootcamp - Homework
+
