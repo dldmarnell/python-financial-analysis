@@ -7,7 +7,9 @@ Reads a csv file of date and profit/loss data.  Calculates total months, total p
 ## Technologies
 
 Language: Python3 
+
 Imports: pathlib and csv libraries 
+
 Developed with JupyterLab
 
 ---
