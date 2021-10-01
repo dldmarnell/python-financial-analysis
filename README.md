@@ -1,4 +1,4 @@
-# PyBank
+# Python Financial Analysis
 
 Reads a csv file of date and profit/loss data.  Calculates total months, total profit/loss, average profit/loss, lowest and highest profit/loss months, prints and writes a text file of financial analysis findings.
 
